@@ -47,7 +47,7 @@ return(
                                                             visible: { opacity: 1, scale: 1 }
                                                   }}
                               >
-                                        <p className="font-playfair text-6xl">
+                                        <p className="font-playfair text-6xl ml-[-50px]">
                                             "      
                                         </p>
                                         <p className="text-center text-l mt-5">
@@ -66,7 +66,7 @@ return(
                                                             visible: { opacity: 1, scale: 1 }
                                                   }}
                               >
-                                        <p className="font-playfair text-6xl">
+                                        <p className="font-playfair text-6xl ml-[-50px]">
                                             "      
                                         </p>
                                         <p className="text-center text-l mt-5">
@@ -85,7 +85,7 @@ return(
                                                             visible: { opacity: 1, scale: 1 }
                                                   }}
                               >
-                                        <p className="font-playfair text-6xl">
+                                        <p className="font-playfair text-6xl ml-[-50px]">
                                             "      
                                         </p>
                                         <p className="text-center text-l mt-5">
