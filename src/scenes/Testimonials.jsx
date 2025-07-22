@@ -27,7 +27,10 @@ return(
                                         <p className="font-playfair font-semibold text-4xl mb-5 text-red">
                                                   TESTIMONIALS
                                         </p>
-                                        <LineGradient width="max-auto w-1/2 ml-2" />
+                                        <div className="flex justify-center mt-5 md:ml-[-160px] md:mr-20">
+
+                                        <LineGradient width="w-1/2" />
+                                        </div>
                                         <p className="mt-10 mb-7 text-sm">
                                                   Here are some testimonials from my clients and colleagues. 
                                                   Their feedback is invaluable to me and helps me improve my skills and services.
