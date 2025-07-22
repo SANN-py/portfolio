@@ -28,7 +28,7 @@ return(
                                                   TESTIMONIALS
                                         </p>
                                         <LineGradient width="max-auto w-1/2 ml-2" />
-                                        <p className="mt-10 ">
+                                        <p className="mt-10 mb-7 text-sm">
                                                   Here are some testimonials from my clients and colleagues. 
                                                   Their feedback is invaluable to me and helps me improve my skills and services.
                                         </p>
@@ -50,7 +50,7 @@ return(
                                         <p className="font-playfair text-6xl">
                                             "      
                                         </p>
-                                        <p className="text-center text-xl">
+                                        <p className="text-center text-l mt-5">
                                                   Edroh is an exceptional developer. His attention to detail and commitment to quality is evident in every project he undertakes. 
                                                   I highly recommend him for any web development needs.
                                         </p>
@@ -69,7 +69,7 @@ return(
                                         <p className="font-playfair text-6xl">
                                             "      
                                         </p>
-                                        <p className="text-center text-xl">
+                                        <p className="text-center text-l mt-5">
                                                   Working with Edroh was a pleasure. He is not only skilled but also a great communicator. 
                                                   He delivered the project on time and exceeded our expectations.
                                         </p>
@@ -88,7 +88,7 @@ return(
                                         <p className="font-playfair text-6xl">
                                             "      
                                         </p>
-                                        <p className="text-center text-xl">
+                                        <p className="text-center text-l mt-5">
                                                   Edroh's work is top-notch. His ability to solve complex problems and deliver innovative solutions is impressive. 
                                                   I look forward to working with him again in the future.
                                         </p>
